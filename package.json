@@ -1,0 +1,25 @@
+{
+  "name": "echarts-demo-playground",
+  "version": "1.0.0",
+  "description": "ECharts 在线演示平台 - 实时编辑和预览",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.7.0",
+    "echarts": "^6.0.0",
+    "echarts-gl": "^2.0.9",
+    "echarts-liquidfill": "^3.1.0",
+    "echarts-wordcloud": "^2.1.0",
+    "monaco-editor": "^0.45.0",
+    "vue": "^3.4.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "sass": "^1.69.0",
+    "vite": "^5.0.0"
+  }
+}
