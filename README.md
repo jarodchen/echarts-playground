@@ -2,6 +2,8 @@
 
 > 🎨 基于 Vue3 + ECharts 的交互式图表演示工具,支持实时编辑和预览
 
+**🌐 在线演示**: [https://jarodchen.github.io/echarts-playground/](https://jarodchen.github.io/echarts-playground/)
+
 ## ✨ 特性
 
 - 🔄 **布局切换** - 支持上下布局和左右布局自由切换
